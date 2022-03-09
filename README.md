@@ -1,5 +1,5 @@
 - 👋 Hey you,
-- 📫 You can reach me at mark.ayvaz98@gmail.com
+- 📫 Reach me at mark.ayvaz98@gmail.com
 <!-- - 👀 I’m interested in solving problems
 - 🌱 I’m currently learning Python -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
